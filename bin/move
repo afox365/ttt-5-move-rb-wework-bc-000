@@ -10,7 +10,7 @@ puts "Where would you like to go?"
 
 input = gets.strip
 
-input.to_1
+input.to_i
 
 move(board, input)
 
