@@ -10,4 +10,6 @@ puts "Where would you like to go?"
 
 input = gets.strip
 
+player = "x"
+
 move(board, input, player)
