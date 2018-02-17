@@ -6,7 +6,7 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " ",]
 
 player = "x"
 
-puts "Welcome to Tic Tac Toe!"
+print "Welcome to Tic Tac Toe!"
 puts "Where would you like to go?"
 input = gets.strip
 
